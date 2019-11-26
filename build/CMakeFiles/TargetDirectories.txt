@@ -1,0 +1,3 @@
+/data/telloproject-joypark88/build/CMakeFiles/rebuild_cache.dir
+/data/telloproject-joypark88/build/CMakeFiles/TelloPro.dir
+/data/telloproject-joypark88/build/CMakeFiles/edit_cache.dir
